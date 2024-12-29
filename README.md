@@ -1,6 +1,6 @@
 # Searchify - DSA Problems Search Engine
 
-![Searchify Logo](https://img.icons8.com/ios/452/search.png)
+![Searchify Logo](https://img.icons8.com/ios/452/search.png | width=100)
 
 **Searchify** is a high-performance search engine designed to help users efficiently search for DSA (Data Structures and Algorithms) problems. It utilizes advanced information retrieval (IR) algorithms such as BM25 and TF-IDF to rank documents based on query strings, ensuring that users receive the most relevant results quickly.
 
